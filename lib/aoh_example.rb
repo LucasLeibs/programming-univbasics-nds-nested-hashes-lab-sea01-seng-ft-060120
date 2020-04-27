@@ -20,6 +20,13 @@ def assembled_aoh
 end
 
 def literal_aoh
+ array = []
+ array << DON_G
+ array << JOELLE_VD
+ array << PAT_M
+ array << KATE_G
+ array << BRUCE_G
+ 
   # Using Array literal syntax only, build a nested array that uses the data in
   # held in the constants
 end
